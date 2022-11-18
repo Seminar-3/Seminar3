@@ -3,8 +3,8 @@
 * *git version* - узнать версию Git
 * *git init* - создает новый репозиторий Git
 #### Задание адрес электронной почты и имя пользователя
-1. *git config --global user.email "**Email**"*
-2. *git config --global user.name "***Firstname* Lastname**"*
+1. *git config --global user.email "***Email***"*
+2. *git config --global user.name "***Firstname Lastname***"*
 * *git help* - получить помощь по коммандам
 * *git status* - показывает состояние файлов в рабочем пространстве
 * *git add .* - добавляет содержимое рабочего каталога в индекс для последующего коммита
