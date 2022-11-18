@@ -20,3 +20,4 @@
 * *git diff* - Просмотр изменений до коммита
 * *git branch* - Просмотр списка веток
 * *git branch 'name_branch'* - Создание новой ветки
+* *git commit --amend -m "new comment"* - Изменение коментария последнего коммита
